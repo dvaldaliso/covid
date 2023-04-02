@@ -1,0 +1,176 @@
+Nombre,Sexo,Edad,Fiebre,Dolor_de_Garganta,Dolor_de_Cabeza,Tos,Falta_de_Aire,Diarrea,Enfermedad_Pulmonar,Asma,Hipertension,Insuficiencia_Cardiaca,Enfermedad_Coronaria,Cancer,Diabetes,VIH,Contacto_con_Positivo,Policlinico,Han_viajado
+Meghan E. Carney,F,50,No,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,Alex Urquiola,No
+Jasper D. Andrews,F,24,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Nadine O. Acosta,F,28,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,René Avila Reyes,No
+Adele J. Lancaster,F,32,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alcides Pino Bermudez,No
+Hyacinth Y. Alvarez,M,42,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,No,Pedro del Toro Saad,Si
+Fredericka I. Bartlett,M,27,No,Si,Si,Si,No,No,No,Si,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Trevor M. Delacruz,F,37,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Walker U. Lamb,F,52,No,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Hiram N. Sharpe,M,59,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Inez E. Alford,F,43,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Neve R. Hanson,F,17,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alex Urquiola,No
+Erich G. Hamilton,F,43,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Raja U. Dalton,M,18,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Shaine U. Weaver,F,30,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Wyoming Z. Castaneda,F,56,No,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,Pedro del Toro Saad,No
+Carly K. Koch,F,19,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Lael B. Allen,F,40,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Manuel Díaz Legrá,No
+Wang X. Harvey,M,62,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Mario Gutierres Ardaya,No
+Latifah O. Silva,F,37,No,No,No,No,No,No,No,No,Si,No,Si,No,No,No,No,Máximo Gómez Baéz,No
+Zachery Q. Barker,F,62,No,Si,No,Si,No,No,No,Si,Si,No,No,No,No,No,No,Pedro del Toro Saad,No
+Caleb G. Clements,F,64,No,No,No,No,No,No,No,Si,Si,No,No,No,Si,No,No,René Avila Reyes,No
+Jessica G. Fisher,M,57,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Si,Pedro del Toro Saad,No
+Zephr O. Ramsey,M,27,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alcides Pino Bermudez,No
+Ishmael Z. Chen,M,45,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Manuel Díaz Legrá,No
+April V. Watson,F,22,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Mario Gutierres Ardaya,No
+Tyler Y. Blake,M,64,No,No,No,No,No,No,No,No,Si,No,Si,No,No,No,No,Pedro del Toro Saad,No
+Hedda N. Barrett,F,20,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alcides Pino Bermudez,No
+Lev A. Justice,F,57,No,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Harrison Z. Norton,M,26,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Jade S. Baldwin,M,41,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Shoshana N. Nunez,F,17,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Ursula N. Burgess,F,51,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Hilda J. Levine,F,48,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Kameko H. Tate,F,19,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alex Urquiola,No
+Molly D. Burch,M,22,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Local San Andrés,No
+Idola B. Russell,F,65,No,No,No,No,No,No,No,No,Si,No,No,No,Si,No,No,Máximo Gómez Baéz,No
+Vanna K. Conway,F,57,No,No,No,No,No,No,No,No,Si,No,No,No,Si,No,No,Máximo Gómez Baéz,No
+Caldwell P. Herman,M,38,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Xander Y. Reid,F,44,No,No,No,No,No,No,No,Si,No,No,No,Si,No,No,No,Mario Gutierres Ardaya,No
+Chancellor G. Mcmillan,F,11,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,René Avila Reyes,No
+Nayda S. Hendrix,M,39,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Piper G. Marks,F,42,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,René Avila Reyes,No
+Ahmed X. Jenkins,F,54,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Manuel Díaz Legrá,No
+Ursa V. Pierce,F,20,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Ebony W. Copeland,M,39,No,No,No,No,No,No,No,No,No,No,No,No,No,Si,No,Máximo Gómez Baéz,No
+Noble U. Schmidt,F,34,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Wyoming B. Hutchinson,F,57,No,No,No,No,No,No,No,Si,Si,No,No,No,No,No,No,Alex Urquiola,No
+Malcolm R. Nelson,M,27,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Christopher C. Ortega,F,32,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Manuel Díaz Legrá,No
+Boris I. Galloway,F,26,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Julio Grave de Peralta Zayas Bazán,No
+Uriel W. Tillman,M,20,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Samson S. Harrison,F,57,No,No,No,No,No,No,Si,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Joan G. Dunlap,M,67,No,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,René Avila Reyes,No
+Quinlan I. Dunlap,M,33,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Octavius X. Reynolds,F,61,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,René Avila Reyes,No
+Allistair I. Cox,F,47,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alcides Pino Bermudez,No
+Burton X. Briggs,F,32,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Cain A. Pitts,M,27,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alcides Pino Bermudez,No
+Emerald N. Chase,M,28,Si,Si,Si,No,No,Si,No,No,Si,No,No,No,No,No,No,René Avila Reyes,No
+Cairo P. Peterson,F,41,No,No,No,No,No,Si,No,No,No,No,No,No,No,No,No,Alex Urquiola,No
+Kaden K. Wade,F,53,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,René Avila Reyes,Si
+Troy C. Reeves,F,24,No,No,Si,No,No,No,No,No,No,No,No,No,No,No,No,René Avila Reyes,No
+Matthew Z. Floyd,M,66,No,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,Pedro del Toro Saad,No
+Bernard A. Cross,M,33,No,No,No,No,No,No,No,No,No,No,No,No,Si,No,No,Pedro del Toro Saad,No
+Wesley V. Goff,F,55,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Julio Grave de Peralta Zayas Bazán,No
+Cooper T. Hyde,M,25,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Melodie J. Huff,M,46,No,No,No,No,No,No,No,No,Si,No,Si,No,No,No,No,René Avila Reyes,No
+Wyoming A. Lang,F,51,No,No,Si,No,No,No,No,No,Si,No,No,No,Si,No,No,Alex Urquiola,No
+Gisela Q. Schultz,F,25,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,No,Mario Gutierres Ardaya,No
+Jade W. Barton,M,62,No,No,Si,Si,Si,No,Si,No,Si,No,No,No,Si,No,No,Pedro del Toro Saad,No
+Jessica D. Crawford,F,21,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Vance W. Vargas,M,24,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Sylvester N. Odom,F,27,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Pamela R. Preston,M,57,No,No,No,No,No,No,No,No,Si,No,No,No,Si,No,No,Pedro del Toro Saad,No
+Timothy X. Nichols,F,64,No,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Rosalyn Y. Moore,M,19,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Hadassah U. Kaufman,M,47,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Camilla L. Mcpherson,F,21,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Mechelle N. Massey,M,22,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Eugenia J. Osborne,M,45,No,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,Pedro del Toro Saad,No
+Erich U. Mitchell,F,37,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Camden B. Huffman,M,33,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Julio Grave de Peralta Zayas Bazán,No
+Keiko N. Newton,F,21,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Jermaine Q. Erickson,M,33,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Local San Andrés,No
+Callum H. Glenn,M,29,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alcides Pino Bermudez,No
+Sacha X. Whitaker,F,15,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Murphy T. Morris,F,46,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alcides Pino Bermudez,No
+Georgia H. Woodward,M,32,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Mario Gutierres Ardaya,No
+Myles I. Navarro,F,44,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alex Urquiola,No
+Yardley L. Watts,M,57,No,No,No,Si,No,No,No,No,Si,No,No,No,Si,Si,No,Manuel Díaz Legrá,No
+Basil F. Banks,F,25,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Amelia O. Harper,F,18,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Raya T. Roberts,M,25,No,No,Si,No,No,No,No,No,No,No,No,No,No,No,No,Alex Urquiola,No
+Colby B. Hale,M,18,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Manuel Díaz Legrá,No
+Caesar J. Lester,M,20,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alcides Pino Bermudez,No
+Rudyard W. Pugh,M,36,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Ella P. Whitney,M,48,No,No,No,No,No,No,No,Si,Si,No,No,No,No,No,No,René Avila Reyes,No
+Colette P. Barry,F,14,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Si,Mario Gutierres Ardaya,No
+Ocean X. Hale,M,18,No,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,Alcides Pino Bermudez,No
+Yvette U. Howard,F,22,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Jackson B. Santos,F,35,No,No,Si,No,No,No,No,Si,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Brendan S. Torres,M,22,No,No,No,No,No,Si,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Plato K. Warren,F,32,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Kermit F. Joseph,M,50,No,No,No,No,No,No,No,No,No,No,Si,No,No,No,No,Local San Andrés,No
+Russell S. Colon,F,53,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alex Urquiola,No
+Lee A. Hanson,M,28,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Meghan R. Booker,F,43,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Lee Y. Larsen,M,25,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Nyssa S. Doyle,F,23,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Brynn T. Schneider,F,22,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Garrett B. Fischer,F,21,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Julio Grave de Peralta Zayas Bazán,No
+Iona L. Jimenez,M,26,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Delilah Y. Webb,F,33,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Sierra E. Goodman,F,20,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Harrison J. Adkins,M,17,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Elton G. Carlson,M,49,No,No,No,No,No,No,No,Si,Si,No,No,No,No,No,No,Pedro Díaz Coello,No
+Geraldine O. Abbott,F,49,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Drew S. Richard,F,23,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Caldwell O. Cohen,F,18,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Tucker D. Justice,M,54,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Kirestin U. Valdez,F,44,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Mario Gutierres Ardaya,No
+Rylee Q. Henson,F,34,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Julio Grave de Peralta Zayas Bazán,No
+Kasimir V. Harper,F,19,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Mario Gutierres Ardaya,No
+Dillon Q. Olsen,F,22,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Guy H. Gonzalez,M,34,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Julio Grave de Peralta Zayas Bazán,No
+Wynne U. Rich,F,54,No,No,No,No,No,No,Si,No,No,No,No,No,No,No,No,Manuel Díaz Legrá,No
+Colt J. Moses,F,54,No,No,No,No,Si,No,No,Si,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Keefe C. Garner,M,61,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Ramona L. Johnson,M,20,No,No,No,No,No,No,No,Si,Si,Si,No,No,No,No,No,Pedro del Toro Saad,No
+Ferdinand V. Sexton,F,17,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Ray M. Harmon,F,61,No,No,No,No,No,No,No,Si,Si,No,No,No,No,No,No,Alcides Pino Bermudez,No
+August C. Fields,F,17,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Julio Grave de Peralta Zayas Bazán,No
+Amelia C. Scott,F,73,No,No,No,No,No,No,No,No,Si,Si,No,No,Si,No,No,Julio Grave de Peralta Zayas Bazán,No
+Amela L. Velazquez,F,52,No,No,No,No,No,No,No,Si,Si,No,No,No,No,No,No,Julio Grave de Peralta Zayas Bazán,No
+Althea I. Mccarty,F,16,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alcides Pino Bermudez,No
+Teagan R. Small,M,35,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Mario Gutierres Ardaya,No
+Christine S. Garner,F,54,No,No,No,No,No,No,No,No,Si,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Bree U. Henderson,M,24,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Julio Grave de Peralta Zayas Bazán,No
+Ethan K. Henry,M,40,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,René Avila Reyes,No
+Mufutau L. Delacruz,F,34,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Alex Urquiola,No
+Declan P. Dickson,F,39,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,René Avila Reyes,No
+Jasmine Q. Mccullough,M,48,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Máximo Gómez Baéz,No
+Mallory L. Rodriguez,F,16,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro del Toro Saad,No
+Abraham L. Boyle,F,49,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Pedro Díaz Coello,No
+Nomlanga B. Johnson,F,48,No,No,No,No,No,No,No,Si,No,Si,No,No,No,No,No,Julio Grave de Peralta Zayas Bazán,No
+Zephr C. Leon,M,17,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Julio Grave de Peralta Zayas Bazán,No
+Chloe Z. Burns,M,18,No,No,Si,No,No,No,No,No,No,No,No,No,No,No,No,René Avila Reyes,No
+Aurelia J. Roberson,M,29,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,René Avila Reyes,No
+Ivory L. Morton,F,21,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Mario Gutierres Ardaya,No
+Miranda D. Price,M,22,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Manuel Díaz Legrá,No
+Ralph V. Gay,M,22,No,No,Si,,No,Si,No,No,No,No,No,No,No,,No,Mario Gutierres Ardaya,No
+Ulysses S. Lamb,F,39,No,No,Si,,No,,No,No,No,No,No,No,No,,No,Alcides Pino Bermudez,No
+Quinn P. Stone,M,50,No,No,Si,Si,No,,No,No,No,No,No,No,No,,No,Alcides Pino Bermudez,No
+Chadwick R. Garcia,F,53,No,No,Si,No,No,,No,No,Si,No,No,No,No,,No,Pedro Díaz Coello,No
+Cynthia F. Bradford,M,22,No,No,Si,Si,No,,No,No,No,No,No,No,No,,No,Local San Andrés,No
+Claire Z. Carver,M,33,No,No,Si,No,No,No,No,No,No,No,No,No,No,,No,Alcides Pino Bermudez,No
+Mariko Z. Schneider,M,26,No,No,Si,No,No,,No,No,No,No,No,No,No,,No,Manuel Díaz Legrá,No
+Skyler D. Hale,F,57,No,No,Si,No,No,,No,No,Si,No,No,No,No,,No,Máximo Gómez Baéz,No
+Jelani H. Gordon,F,56,No,No,Si,No,No,,No,No,No,No,No,No,No,,No,Manuel Díaz Legrá,No
+Daphne Y. Little,F,33,No,No,Si,No,No,No,No,No,No,No,No,No,No,,No,René Avila Reyes,No
+Avram R. Merritt,M,59,No,No,Si,No,No,No,No,No,No,No,No,No,No,,No,Pedro del Toro Saad,No
+Vladimir K. Blake,F,59,No,No,Si,No,No,No,No,No,No,No,No,No,Si,,No,Manuel Díaz Legrá,No
+Shana W. Leach,F,55,No,No,Si,No,No,No,No,Si,Si,No,Si,No,No,,No,Alcides Pino Bermudez,No
+Brynne P. Faulkner,F,28,No,No,Si,,No,No,No,No,No,No,No,No,No,,No,Máximo Gómez Baéz,No
+Patrick P. Morse,M,19,No,No,Si,,No,No,No,No,No,No,No,No,No,,No,Julio Grave de Peralta Zayas Bazán,No
+Ross A. Cortez,F,35,No,No,Si,Si,No,No,No,No,No,No,No,No,No,,No,Alex Urquiola,No
+Gabriel M. Davidson,M,66,No,No,Si,Si,No,No,No,No,No,No,No,No,No,,No,Mario Gutierres Ardaya,No
+Jasmine N. Moreno,F,66,No,No,Si,Si,No,No,No,No,Si,No,No,No,No,,No,Mario Gutierres Ardaya,No
+Serina E. Welch,M,39,No,No,Si,Si,No,No,No,No,No,No,No,No,No,,No,Máximo Gómez Baéz,No
+Brady R. Mckee,M,71,No,No,Si,Si,No,No,No,No,No,No,No,No,No,,No,Máximo Gómez Baéz,No
+Tobias I. Murphy,F,18,No,No,Si,Si,No,No,No,No,No,No,No,No,No,,No,René Avila Reyes,No
+Jack E. Kelly,F,52,No,No,Si,Si,No,No,No,Si,No,No,No,No,No,,No,Manuel Díaz Legrá,No
+Autumn V. Harrison,M,44,No,No,Si,Si,No,No,Si,No,No,No,No,No,No,,No,René Avila Reyes,No
+Finn V. Gillespie,M,18,No,No,Si,Si,No,No,No,No,No,No,No,No,No,,No,Pedro del Toro Saad,No
+Stone V. Case,F,40,No,No,Si,Si,No,No,No,No,No,No,No,No,No,,No,Manuel Díaz Legrá,No
